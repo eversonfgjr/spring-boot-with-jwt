@@ -1,4 +1,4 @@
-package security;
+package com.amigoscode.springbootwithjwt.security;
 
 import com.amigoscode.springbootwithjwt.filter.CustomAuthenticationFilter;
 import lombok.RequiredArgsConstructor;
